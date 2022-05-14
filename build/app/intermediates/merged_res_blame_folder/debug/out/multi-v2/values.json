@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/harshilthummar/Desktop/internship/scroll_image/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/harshilthummar/demo/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/harshilthummar/Desktop/internship/scroll_image/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/harshilthummar/demo/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

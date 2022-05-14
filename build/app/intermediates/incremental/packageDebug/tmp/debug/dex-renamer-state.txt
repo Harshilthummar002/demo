@@ -1,4 +1,4 @@
-#Fri May 13 13:22:45 IST 2022
-base.0=/Users/harshilthummar/Desktop/internship/scroll_image/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Sat May 14 11:02:02 IST 2022
+base.0=/Users/harshilthummar/demo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
