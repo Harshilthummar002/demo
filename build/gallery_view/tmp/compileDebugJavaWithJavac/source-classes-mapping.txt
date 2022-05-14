@@ -1,2 +1,0 @@
-com/example/gallery_view/BuildConfig.java
- com.example.gallery_view.BuildConfig
